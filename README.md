@@ -1,6 +1,9 @@
 # Cyberdog-Project
 
 Cyberdog-Project is an open-source robotics development platform, primarily implemented in C, with supporting code in Assembly, Linker Script, HTML, Makefile, and JavaScript. This project provides a modular and extensible codebase for building and programming quadruped robots such as "Cyberdog".
+<img width="364" height="275" alt="image" src="https://github.com/user-attachments/assets/d9190082-93a5-4180-92e4-118cbbec8aa2" />
+<img width="162" height="276" alt="image" src="https://github.com/user-attachments/assets/8092a3a5-daf4-47e4-b665-dd0777193248" />
+
 
 ## Features
 
