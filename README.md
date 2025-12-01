@@ -4,8 +4,8 @@ Cyberdog-Project is an open-source quadruped robots, primarily implemented in C.
 
 Designed and 3D-printed a quadruped robot body integrating all components into a functional system. Programmed an STM32 microcontroller to generate PWM signals driving four servos for leg motion, implemented UART communication with a BLE module for wireless control, and used I²C to drive an OLED display showing synchronized expressions. Additionally, developed and deployed a Bluetooth-enabled Web App for browser-based operation.
 
-<img width="397" height="300" alt="image" src="https://github.com/user-attachments/assets/d9190082-93a5-4180-92e4-118cbbec8aa2" />
-<img width="176" height="276" alt="image" src="https://github.com/user-attachments/assets/8092a3a5-daf4-47e4-b665-dd0777193248" />
+<img width="528" height="400" alt="image" src="https://github.com/user-attachments/assets/d9190082-93a5-4180-92e4-118cbbec8aa2" />
+<img width="234" height="400" alt="image" src="https://github.com/user-attachments/assets/8092a3a5-daf4-47e4-b665-dd0777193248" />
 
 
 ## BOM
